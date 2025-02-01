@@ -1,0 +1,38 @@
+
+{
+    "Goa": {
+      "places_to_visit": [
+        {
+          "name": "Baga Beach",
+          "description": "A popular beach known for water sports and vibrant nightlife."
+        },
+        {
+          "name": "Fort Aguada",
+          "description": "A 17th-century Portuguese fort with a lighthouse and views of the Arabian Sea."
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "Fisherman's Wharf",
+          "cuisine": "Seafood",
+          "description": "A famous seafood restaurant with a scenic view of the river.",
+          "price_range": "$$"
+        }
+      ],
+      "famous_foods": [
+        {
+          "name": "Goan Fish Curry",
+          "description": "A spicy, tangy fish curry made with coconut milk and local spices."
+        }
+      ],
+      "hotels": [
+        {
+          "name": "Taj Exotica",
+          "rating": 5,
+          "price_range": "$$$$",
+          "description": "A luxury resort offering stunning views of the Arabian Sea."
+        }
+      ]
+    }
+  }
+  
